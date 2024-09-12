@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm  from Motijheel , Dhaka.<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I work some research , web development as well as programming, reading books.</p>
+<p align="left">I'm  from Motijheel , Dhaka.<br><br>- 🔭 I’m working as web developer<br>- ⚡ In my free time I work some research , web development as well as programming, reading books.</p>
 
 ###
 
