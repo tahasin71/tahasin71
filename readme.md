@@ -2,8 +2,6 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/162780455?v=4"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100010011062369" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -13,23 +11,13 @@
   </a>
 </div>
 
-###
-
 <h1 align="center">Hay there .<br>This is Tahasin Ahamad.</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">I'm  from Dhaka, Bangladesh .Currently I live in Berlin, Germany.<br><br>- 🔭 I’m working as a web developer<br>- ⚡ In my free time I work some research , web development as well as programming, reading books.</p>
 
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -48,6 +36,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-
-###
-
